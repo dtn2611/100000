@@ -37,6 +37,6 @@
 我们支持多平台观看，无论你使用的是PC、手机、平板还是电视，都可以在任何设备上进行无缝观看。我们的高清资源自动适配不同设备，确保每个用户都能享受最佳的观影体验。
 
 
-<span style="display:none;">[Canonical link] ( ）</span>
+<span style="display:none;">[Canonical link] (https://github.com/dtn2611/100000 ）</span>
 
 
